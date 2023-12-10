@@ -1,0 +1,79 @@
+C:\Users\Константин\Desktop\calculate\Zaytsev Demoex\Zaytsev Demoex\bin\Debug\Zaytsev Demoex.exe.config
+C:\Users\Константин\Desktop\calculate\Zaytsev Demoex\Zaytsev Demoex\bin\Debug\Zaytsev Demoex.exe
+C:\Users\Константин\Desktop\calculate\Zaytsev Demoex\Zaytsev Demoex\bin\Debug\Zaytsev Demoex.pdb
+C:\Users\Константин\Desktop\calculate\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.csproj.AssemblyReference.cache
+C:\Users\Константин\Desktop\calculate\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.csproj.SuggestedBindingRedirects.cache
+C:\Users\Константин\Desktop\calculate\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.Captcha.resources
+C:\Users\Константин\Desktop\calculate\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.controls.admord_control.resources
+C:\Users\Константин\Desktop\calculate\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.controls.adm_maincontrol.resources
+C:\Users\Константин\Desktop\calculate\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.controls.prodcontrol_adm.resources
+C:\Users\Константин\Desktop\calculate\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.Admin_Panel.resources
+C:\Users\Константин\Desktop\calculate\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.Autorizform.resources
+C:\Users\Константин\Desktop\calculate\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.Properties.Resources.resources
+C:\Users\Константин\Desktop\calculate\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.UserPanel.resources
+C:\Users\Константин\Desktop\calculate\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.csproj.GenerateResource.cache
+C:\Users\Константин\Desktop\calculate\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\calculate\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.exe
+C:\Users\Константин\Desktop\calculate\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.pdb
+E:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.csproj.AssemblyReference.cache
+E:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.Captcha.resources
+E:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.controls.admord_control.resources
+E:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.controls.adm_maincontrol.resources
+E:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.controls.prodcontrol_adm.resources
+E:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.Admin_Panel.resources
+E:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.Autorizform.resources
+E:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.Properties.Resources.resources
+E:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.UserPanel.resources
+E:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.csproj.GenerateResource.cache
+E:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.csproj.CoreCompileInputs.cache
+E:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.exe
+E:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.pdb
+E:\Zaytsev Demoex\Zaytsev Demoex\bin\Debug\Zaytsev Demoex.exe.config
+E:\Zaytsev Demoex\Zaytsev Demoex\bin\Debug\Zaytsev Demoex.exe
+E:\Zaytsev Demoex\Zaytsev Demoex\bin\Debug\Zaytsev Demoex.pdb
+E:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.forms.Add_Product_Form.resources
+E:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.controls.user_prod_control.resources
+E:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.csproj.SuggestedBindingRedirects.cache
+D:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.csproj.SuggestedBindingRedirects.cache
+D:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.controls.user_prod_control.resources
+D:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.Captcha.resources
+D:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.controls.admord_control.resources
+D:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.controls.adm_maincontrol.resources
+D:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.controls.prodcontrol_adm.resources
+D:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.forms.Add_Product_Form.resources
+D:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.Admin_Panel.resources
+D:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.Autorizform.resources
+D:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.Properties.Resources.resources
+D:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.UserPanel.resources
+D:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.csproj.GenerateResource.cache
+D:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.csproj.CoreCompileInputs.cache
+D:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.exe
+D:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.pdb
+D:\Zaytsev Demoex\Zaytsev Demoex\bin\Debug\Zaytsev Demoex.exe.config
+D:\Zaytsev Demoex\Zaytsev Demoex\bin\Debug\Zaytsev Demoex.exe
+D:\Zaytsev Demoex\Zaytsev Demoex\bin\Debug\Zaytsev Demoex.pdb
+D:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.controls.user_home_control.resources
+D:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.controls.usr_order_control.resources
+D:\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.csproj.AssemblyReference.cache
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\bin\Debug\Zaytsev Demoex.exe.config
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\bin\Debug\Zaytsev Demoex.exe
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\bin\Debug\Zaytsev Demoex.pdb
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.csproj.AssemblyReference.cache
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.csproj.SuggestedBindingRedirects.cache
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.controls.user_home_control.resources
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.controls.user_prod_control.resources
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.controls.usr_order_control.resources
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.Captcha.resources
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.controls.admord_control.resources
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.controls.adm_maincontrol.resources
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.controls.prodcontrol_adm.resources
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.forms.Add_Product_Form.resources
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.Admin_Panel.resources
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.Autorizform.resources
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.Properties.Resources.resources
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.UserPanel.resources
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.csproj.GenerateResource.cache
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.exe
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev Demoex.pdb
+C:\Users\Константин\Desktop\Jewelry POS\Zaytsev Demoex\Zaytsev Demoex\obj\Debug\Zaytsev_Demoex.panels.Nonauth_usr_Panel.resources
